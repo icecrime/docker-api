@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/emicklei/go-restful"
-	"github.com/icecrime/api/api"
+	"github.com/icecrime/docker-api/api"
 )
 
 // baseServer implements BaseService interface by exposing HTTP routes and

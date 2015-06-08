@@ -3,7 +3,7 @@ package client
 import (
 	"net/http"
 
-	"github.com/icecrime/api/api"
+	"github.com/icecrime/docker-api/api"
 )
 
 func New(c *http.Client, baseURI string) *Client {

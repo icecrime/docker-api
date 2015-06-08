@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/icecrime/api/api"
-	"github.com/icecrime/api/client"
+	"github.com/icecrime/docker-api/api"
+	"github.com/icecrime/docker-api/client"
 )
 
 func printResult(v interface{}, err error) {

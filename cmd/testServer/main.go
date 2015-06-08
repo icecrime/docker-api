@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	log "github.com/Sirupsen/logrus"
-	"github.com/icecrime/api/api"
-	"github.com/icecrime/api/server"
+	"github.com/icecrime/docker-api/api"
+	"github.com/icecrime/docker-api/server"
 )
 
 type testServer struct{}
